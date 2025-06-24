@@ -21,7 +21,7 @@ Le Multi-Level Cross Entropy Optimizer est une méthode innovante qui :
 - **Temps de calcul** : [préciser si disponible]
 
 ### Trajet optimal final
-![Solution optimale](4.Résultats/optimal_path.png)
+![Solution optimale](4.Résultats/path_optimal.png)
 
 ## ✅ Conclusion
 L'algorithme MCEO a permis :
